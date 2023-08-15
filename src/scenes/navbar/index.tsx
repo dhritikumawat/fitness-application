@@ -37,5 +37,4 @@ const Navbar = ({ selectedPage, setSelectedPage }: Props) => {
     </div>
   </nav>
 }
-
 export default Navbar
